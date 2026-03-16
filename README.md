@@ -2,7 +2,7 @@
 
 UrbanNest is a premium real-estate application built with React Native (Expo) and a Node.js/MongoDB backend. It provides a seamless platform for landlords to list properties and for tenants to find, book viewings, and pay for their next home.
 
-## ✨ Features
+## Features
 
 - **Property Listings**: Detailed property information with high-quality image carousels.
 - **Advanced Search**: Filter by category (Apartment, House, Studio) and offer type (Rent, Sale).
@@ -13,7 +13,7 @@ UrbanNest is a premium real-estate application built with React Native (Expo) an
 - **Landlord Dashboard**: Manage properties, track bookings, and view income reports.
 - **Map View**: Visualize property locations with interactive maps.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: React Native with Expo
@@ -29,7 +29,7 @@ UrbanNest is a premium real-estate application built with React Native (Expo) an
 - **Media**: Cloudinary for image storage
 - **Real-time**: Socket.io
 
-## 📦 Project Structure
+## Project Structure
 
 ```bash
 apato/
@@ -37,7 +37,7 @@ apato/
 └── backrealestate/    # Node.js API Backend
 ```
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js & npm
@@ -84,9 +84,7 @@ apato/
    npm start
    ```
 
-## 📸 Screenshots
 
-*(Use the `generate_image` tool to create beautiful mockups for your project!)*
 
-## 📄 License
+##  License
 This project is licensed under the MIT License.
