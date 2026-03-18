@@ -1,0 +1,13 @@
+﻿Property: Maplewood family homes
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772109160/properties/hcwshnyuzbfaleqjm36l.jpg
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772109160/properties/tejedntkwv0xggctqncj.jpg
+Property: Sunset ridge
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772108189/properties/isyg32fjoqhbg2op1hnu.jpg
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772108189/properties/onwwlnvfulvvw7gz047k.jpg
+Property: Palm grove
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772107676/properties/twa1bitimohpifw295qx.jpg
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772107677/properties/pahvg9ylgu3dtb18svnn.jpg
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772107677/properties/i9gcvbxvhcd9j82gpocq.jpg
+Property: Skyline heights
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772107343/properties/p277moy5g86z6kuszu2x.jpg
+  Image: https://res.cloudinary.com/dtqso9eyc/image/upload/v1772107343/properties/ewfdzloilc46csqgcuil.jpg
